@@ -1,0 +1,14 @@
+{
+  "512": {
+    "chunk_size": 512,
+    "retrieval_precision": 0.9,
+    "avg_quality_score": 0.8666666666666666,
+    "total_questions": 10
+  },
+  "256": {
+    "chunk_size": 256,
+    "retrieval_precision": 1.0,
+    "avg_quality_score": 0.9333333333333332,
+    "total_questions": 10
+  }
+}

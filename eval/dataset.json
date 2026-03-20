@@ -1,0 +1,74 @@
+{
+  "eval_dataset": [
+    {
+      "id": 1,
+      "question": "what technologies are used in this project?",
+      "expected_keywords": ["python", "pandas", "numpy", "scikit-learn"],
+      "expected_source": "Report.pdf",
+      "expected_page": 8
+    },
+    {
+      "id": 2,
+      "question": "what are the future enhancements planned?",
+      "expected_keywords": ["real-time", "district", "ml models", "web deployment"],
+      "expected_source": "Report.pdf",
+      "expected_page": 9
+    },
+    {
+      "id": 3,
+      "question": "what types of charts are used in the project?",
+      "expected_keywords": ["pie chart", "bar chart", "line graph"],
+      "expected_source": "Report.pdf",
+      "expected_page": 8
+    },
+    {
+      "id": 4,
+      "question": "what are the crime categories used for grouping states?",
+      "expected_keywords": ["low crime", "moderate crime", "high crime"],
+      "expected_source": "Report.pdf",
+      "expected_page": 4
+    },
+    {
+      "id": 5,
+      "question": "what is the goal of the clustering in this project?",
+      "expected_keywords": ["group", "states", "crime"],
+      "expected_source": "Report.pdf",
+      "expected_page": 4
+    },
+    {
+      "id": 6,
+      "question": "what visualizations are used for crime analysis?",
+      "expected_keywords": ["line graph", "bar chart", "map"],
+      "expected_source": "Report.pdf",
+      "expected_page": 7
+    },
+    {
+      "id": 7,
+      "question": "what does the dataset explorer allow users to do?",
+      "expected_keywords": ["view", "columns", "missing values"],
+      "expected_source": "Report.pdf",
+      "expected_page": 6
+    },
+    {
+      "id": 8,
+      "question": "what advanced ml models are planned for future use?",
+      "expected_keywords": ["advanced ml", "ai-based", "insights"],
+      "expected_source": "Report.pdf",
+      "expected_page": 9
+    },
+    {
+      "id": 9,
+      "question": "what is plotly used for in this project?",
+      "expected_keywords": ["plotly"],
+      "expected_source": "Report.pdf",
+      "expected_page": 8
+    },
+    {
+      "id": 10,
+      "question": "what does the pie chart show in the dataset summary?",
+      "expected_keywords": ["pie chart", "dataset", "visualization"],
+      "expected_source": "Report.pdf",
+      "expected_page": 6
+    }
+  ]
+}
