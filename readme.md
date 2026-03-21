@@ -88,5 +88,3 @@ Query    → Embed → Search → Rerank → Prompt → Mistral → Answer + Cit
 2. Wait a few seconds for indexing
 3. Ask anything about your document
 4. Get a cited, grounded answer
-
-```
