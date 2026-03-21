@@ -2,18 +2,12 @@ venv/
 chroma_db/
 __pycache__/
 *.pyc
-.ipynb_checkpoints/
+*.pyo
 .env
-.cache/
-
-# ML / AI heavy files
-models/
-data/
-datasets/
-*.pt
-*.pth
-*.pkl
-*.h5
-
-# logs
-*.log
+chat_history.json
+docs/
+eval/results/
+.streamlit/
+*.egg-info/
+.DS_Store
+Thumbs.db
